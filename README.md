@@ -1,2 +1,2 @@
 # BlogPost.github.io
-A blog on Cybe rSecurity Standards in Financial Industry 
+A blog on Cyber Security Standards in Financial Industry 
